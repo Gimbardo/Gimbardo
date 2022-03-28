@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:40297C&text=Gimbardo&fontSize=60&&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:7a4cf2&text=Gimbardo&fontSize=60&&fontColor=f6f1f4)
 
 <div id="header" align="center">
   <img src=https://user-images.githubusercontent.com/60613648/160354256-14416058-65bc-47c9-a4fb-4f0920896b96.png>
@@ -27,7 +27,7 @@
 
 ## :fire: Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gimbardo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbardo&theme=github_dark&show_icons=true&hide_border=true&title_color=E2670E&icon_color=7a4cf2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gimbardo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=7a4cf2&ring=E2670E&dates=E2670E&stroke=7a4cf2)](https://git.io/streak-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gimbardo&theme=github_dark&hide_border=true&text_color=7a4cf2&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)
