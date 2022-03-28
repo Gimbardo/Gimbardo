@@ -1,6 +1,4 @@
-<h1 align="center">
- ~ Gimbardo ~
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:40297C&text=Gimbardo&fontSize=60&&fontColor=ffffff)
 
 <div id="header" align="center">
   <img src=https://user-images.githubusercontent.com/60613648/160354256-14416058-65bc-47c9-a4fb-4f0920896b96.png>
@@ -31,3 +29,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gimbardo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
