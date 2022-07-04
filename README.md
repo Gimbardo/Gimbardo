@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:7a4cf2&text=Gimbardo&fontSize=60&&fontColor=f6f1f4)
 
-div id="header" align="center">
+<div id="header" align="center">
   <img src=https://user-images.githubusercontent.com/60613648/177183657-8bc0c985-5a70-42ea-82a7-4b9181a0057e.png>
   <div id="badges">
     <a href="https://www.linkedin.com/in/elia-gamberi-654770176">
