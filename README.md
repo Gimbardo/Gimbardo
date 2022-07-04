@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:7a4cf2&text=Gimbardo&fontSize=60&&fontColor=f6f1f4)
 
 <div id="header" align="center">
-  <img src=https://user-images.githubusercontent.com/60613648/160354256-14416058-65bc-47c9-a4fb-4f0920896b96.png>
+  <img src=https://user-images.githubusercontent.com/60613648/177182109-79f4cc95-535b-4cb0-a9ec-3f21235164e2.png>
   <div id="badges">
     <a href="https://www.linkedin.com/in/elia-gamberi-654770176">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white", alt="LinkedIn Badge"/>
