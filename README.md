@@ -30,4 +30,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbardo&theme=github_dark&show_icons=true&hide_border=true&title_color=E2670E&icon_color=7a4cf2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gimbardo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=7a4cf2&ring=E2670E&dates=E2670E&stroke=7a4cf2)](https://git.io/streak-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gimbardo&theme=github_dark&hide_border=true&text_color=7a4cf2&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gimbardo&theme=github_dark&hide_border=true&text_color=7a4cf2&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)
