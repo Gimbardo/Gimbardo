@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:7a4cf2&text=Gimbardo&fontSize=60&&fontColor=f6f1f4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2670E,100:7a4cf2&text=Gamberi%20Elia&fontSize=60&&fontColor=F2F3F4)
 
 <div id="header" align="center">
   <img src=https://user-images.githubusercontent.com/60613648/177183657-8bc0c985-5a70-42ea-82a7-4b9181a0057e.png>
@@ -23,11 +23,9 @@
 🦐 I'm Gamberi Elia, a Modena (Italy) located Computer Science Student and Full Stack Web Developer  
 👨‍💻 Developing every single line of code with love  
 🎮 In my free time I enjoy playing videogames and DnD  
-✨ My username is Gimbaro, and my favorite DnD class is Bard, so i mixed these two to create "Gimbardo"  
+✨ My username is Gimbaro, but someone already took it on github :/
 
 ## :fire: Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbardo&theme=github_dark&show_icons=true&hide_border=true&title_color=E2670E&icon_color=7a4cf2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gimbardo&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=7a4cf2&ring=E2670E&dates=E2670E&stroke=7a4cf2)](https://git.io/streak-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gimbardo&theme=github_dark&hide_border=true&text_color=7a4cf2&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)
