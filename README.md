@@ -24,8 +24,3 @@
 👨‍💻 Developing every single line of code with love  
 🎮 In my free time I enjoy playing videogames and DnD  
 ✨ My username is Gimbaro, but someone already took it on github :/
-
-## :fire: Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbardo&theme=github_dark&show_icons=true&hide_border=true&title_color=E2670E&icon_color=7a4cf2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gimbardo&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=E2670E)](https://github.com/anuraghazra/github-readme-stats)   
